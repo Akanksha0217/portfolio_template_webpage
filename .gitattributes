@@ -1,1 +1,4 @@
 *.css linguist-detectable=true
+git add .gitattributes
+git commit -m "Force GitHub to detect CSS"
+git push
